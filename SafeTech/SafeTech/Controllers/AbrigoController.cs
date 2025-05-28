@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SafeTech.Models;
+using SafeTech.Data;
 
 namespace SafeTech.Controllers
 {
